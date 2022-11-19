@@ -10,3 +10,5 @@ A python calculator that takes input from users and works like a typical calcula
 - The calculator like the normal calc talks input from user and continues to carry out operations depending on what the user wants to do. After every operation, the calculator asks if you want to continue with the previous answer, if you enter y then it asks you to select operation if no, it clears the screen and restarts from the beginning.
 
 <b>#A view of the calculator</b>
+
+<img src='demo.png' alt='calculator demo'>
